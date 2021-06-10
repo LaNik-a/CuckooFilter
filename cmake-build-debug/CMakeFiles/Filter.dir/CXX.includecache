@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nikitatkachenko/Desktop/Filter/main.cpp
+iostream
+-
+fstream
+-
+map
+-
+random
+-
+ctime
+-
+string
+-
+
